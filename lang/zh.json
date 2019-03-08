@@ -1,0 +1,276 @@
+{
+  "accountProfile": {
+    "home": {
+      "accountProfileScore": "Account Profile Score",
+      "enterAccountHere": "Enter account name here ...",
+      "search": "Search"
+    },
+    "results": {
+      "profile": "Profile",
+      "account": "Account",
+      "token": "Token",
+      "totalReceived": "Total Received",
+      "score": "Score",
+      "profileScore": "Profile Score",
+      "yourScoreIs": "Your Score is",
+      "goodScore": "GOOD!",
+      "badScore": "BAD!",
+      "categoryDetails": "Category Details",
+      "currentResources": "Current Resources",
+      "total": "Total",
+      "available": "Available",
+      "selfStaked": "Self Staked"
+    },
+    "categoryDetails": {
+      "percentage": "Percentage",
+      "volume": "Volume",
+      "txCount": "TX Count",
+      "loading": "Loading"
+    }
+  },
+  "auth": {
+    "login": {
+      "eos": "EOS",
+      "bos": "BOS",
+      "detective": "Detective",
+      "signIn": "Sign In",
+      "email": "Email",
+      "password": "Password",
+      "createAccount": "Create Account",
+      "forgotPassword": "Forgot Password?",
+      "guestLogin": "Guest Login"
+    },
+    "pwReset": {
+      "eos": "EOS",
+      "bos": "BOS",
+      "detective": "Detective",
+      "passwordReminder": "Password Reminder",
+      "email": "Email",
+      "resetPassword": "Reset Password"
+    },
+    "register": {
+      "eos": "EOS",
+      "bos": "BOS",
+      "detective": "Detective",
+      "createAccount": "Create Account",
+      "email": "Email",
+      "password": "Password",
+      "signIn": "Sign In",
+      "forgotPassword": "Forgot Password?",
+      "guestLogin": "Guest Login"
+    },
+    "verifyEmail": {
+      "eos": "EOS",
+      "bos": "BOS",
+      "detective": "Detective",
+      "verifyYourEmail": "Verify your Email",
+      "sendEmailAgain": "Send Email Again",
+      "logout": "Logout",
+      "emailSuccessfullySent": "Email successfully sent!"
+    },
+    "welcomeHero": {
+      "eos": "EOS",
+      "bos": "BOS",
+      "detective": "Detective",
+      "forensicDataAnalysis": "Forensic Data Analysis",
+      "signIn": "Sign In",
+      "createAccount": "Create Account"
+    }
+  },
+  "common": {
+    "transferBetweenDetails": {
+      "transferFrom": "Transfer from:",
+      "txId": "TxID:",
+      "memo": "Memo:"
+    },
+    "transferDetails": {
+      "receivedFrom": "Received from:",
+      "sentTo": "Sent to:",
+      "txCount": "TX Count:",
+      "txId": "TxID:",
+      "memo": "Memo:"
+    }
+  },
+  "home": {
+    "dashboard": {
+      "hello": "Welcome",
+      "mainnet": "Mainnet"
+    },
+    "stats": {
+      "dataProcessor": "Data Processor",
+      "blocksProcessed": "Blocks Processed",
+      "blocksOnChain": "Blocks on Chain",
+      "unprocessedBlocks": "Unprocessed Blocks",
+      "totalTransfers": "Total Transfers",
+      "totalAccounts": "Total Accounts"
+    }
+  },
+  "layout": {
+    "pageFooter": {
+      "eos": "EOS",
+      "bos": "BOS",
+      "detective": "Detective",
+      "privacyPolicy": "Privacy Policy",
+      "craftedWith": "Crafted with",
+      "by": "by",
+      "eosNation": "EOS Nation",
+      "language": "Language",
+      "english": "English",
+      "chinese": "Chinese"
+    },
+    "pageHeader": {
+      "search": "Search",
+      "filter": "Filter",
+      "physics": "Physics",
+      "settings": "Settings",
+      "chain": "Chain",
+      "language": "Language",
+      "english": "English",
+      "chinese": "Chinese",
+      "enterAccount": "Enter Account"
+    },
+    "sideBar": {
+      "eos": "EOS",
+      "bos": "BOS",
+      "detective": "Detective",
+      "userAvatar": "User Avatar",
+      "yourProfile": "Your Profile",
+      "settings": "Settings",
+      "logout": "Logout",
+      "home": "Home",
+      "dashboard": "Dashboard",
+      "statistics": "Statistics",
+      "account": "Account",
+      "lookup": "Lookup",
+      "profileScore": "Profile Score",
+      "transfers": "Transfers",
+      "listView": "List View",
+      "networkGraph": "Network Graph",
+      "help": "Help",
+      "faq": "FAQ"
+    },
+    "sideOverlay": {
+      "updateSearch": "Update Search",
+      "direction": "Direction",
+      "incoming": "Incoming",
+      "outgoing": "Outgoing",
+      "both": "Both",
+      "true": "True",
+      "false": "False",
+      "transfers": "Transfers",
+      "transfersMinMax": "Transfers Min / Max",
+      "quantity": "Quantity",
+      "quantityMinMax": "Quantity Min / Max",
+      "quantityMin": "Quantity Min",
+      "quantityMax": "Quantity Max",
+      "accumulated": "Accumulated",
+      "accumulatedMinMax": "Accumulated Min / Max",
+      "accumulatedMin": "Accumulated Min",
+      "accumulatedMax": "Accumulated Max",
+      "optional": "Optional",
+      "timeRange": "Time Range",
+      "select": "Select",
+      "hours": "hours",
+      "days": "days",
+      "months": "months",
+      "year": "year"
+    }
+  },
+  "networkTransfers": {
+    "accountInfoModal": {
+      "accumulated": "Accumulated",
+      "singleTxs": "Single TXs",
+      "loading": "loading ...",
+      "selectedNode": "Selected Node:"
+    },
+    "edgeInfoModal": {
+      "loading": "loading ...",
+      "transfersFromTo": "Transfers from: {accountFrom} to {accountTo}"
+    },
+    "home": {
+      "transfersNetworkGraph": "Transfers Network Graph",
+      "enterAccountHere": "Enter account name here ...",
+      "search": "Search",
+      "addRemoveAccounts": "Add & Remove Accounts",
+      "addRemoveAccountsDesc1": "Double-click on a node to add or remove an account to the current network.",
+      "addRemoveAccountsDesc2": "The network is extendable and will display cross transfers if they exist.",
+      "transferDetails": "Transfer Details",
+      "transferDetailsDesc1": "Single-click on a node or arrow to see all transfers associated.",
+      "transferDetailsDesc2": "Switch between accumulation and single transfers to get more detailed information.",
+      "filtersAndSettings": "Filters & Settings",
+      "filtersAndSettingsDesc1": "Using different filter parameters can help you narrow down your search to find the relevant transfers.",
+      "filtersAndSettingsDesc2": "Adjust the network settings to fit your needs."
+    },
+    "networkErrors": {
+      "networkError1": "Your search has no results. Try again using a broader time range.",
+      "networkError2": "Your search has been limited to 1000 results. In order to see all results, use the Filter to narrow down your search.",
+      "networkError3": "Network Error - Try a different account or please try again later.",
+      "networkError4": "Sorry, you dont have permission to request this account. Contact us for more information.",
+      "networkError5": "Sorry, we cant find this account. Check for spelling or try a different account."
+    },
+    "physicsOptions": {
+      "graphBehaviourSettings": "Graph Behaviour Settings",
+      "physics": "Physics",
+      "solver": "Solver",
+      "barnesHut": "Barnes Hut",
+      "forceAtlas2Based": "Force Atlas 2 Based",
+      "repulsion": "Repulsion",
+      "hierarchicalRepulsion": "Hierarchical Repulsion",
+      "gravitationalConstant": "Gravitational Constant",
+      "centralGravity": "Central Gravity",
+      "springConstant": "Spring Constant",
+      "springLength": "Spring Length",
+      "nodeDistance": "Node Distance",
+      "damping": "Damping",
+      "avoidOverlap": "Avoid Overlap",
+      "simulation": "Simulation",
+      "velocityMin": "Velocity Min:",
+      "velocityMax": "Velocity Max:",
+      "timestep": "Timestep:",
+      "nodes": "Nodes",
+      "nodeSize": "Node Size:",
+      "labelSize": "Label Size:",
+      "shape": "Shape",
+      "circle": "Circle",
+      "square": "Square",
+      "diamond": "Diamond",
+      "hexagon": "Hexagon",
+      "star": "Star",
+      "triangle": "Triangle",
+      "triangleDown": "Triangle Down",
+      "edges": "Edges",
+      "smoothEdgesType": "Smooth Edges Type",
+      "disableSmooth": "Disable Smooth",
+      "dynamic": "Dynamic",
+      "continuous": "Continuous",
+      "discrete": "Discrete",
+      "diagonalCross": "Diagonal Cross",
+      "straightCross": "Straight Cross",
+      "horizontal": "Horizontal",
+      "vertical": "Vertical",
+      "curvedCW": "Curved CW",
+      "curvedCCW": "Curved CCW",
+      "cubicBezier": "Cubic Bezier",
+      "roundness": "Roundness:"
+    }
+  },
+  "user": {
+    "profile": {
+      "apiToken": "API Token"
+    },
+    "settings": {
+      "user": "User",
+      "email": "Email",
+      "displayName": "Display Name",
+      "displayNameDesc1": "Change your Display Name.",
+      "displayNameDesc2": "You can provide a username or your real name.",
+      "emailAddress": "Email Address",
+      "emailAddressDesc1": "Your Email address associated with your account.",
+      "guestSettingsError": "User settings are not available for Guest Accounts.",
+      "saveChanges": "Save Changes"
+    },
+    "user": {
+      "userAvatar": "User Avatar"
+    }
+  }
+}
